@@ -1,16 +1,4 @@
-# teste
+# flutter_firebase
 
-A new Flutter project.
+App simples em flutter, app possui 2 telas, sendo a primeira para inserir um numero inteiro, e a segunda tela apresenta o numero e ele por extenso. Por exemplo: informe 10 e na tela será exibido '10 - dez'
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
