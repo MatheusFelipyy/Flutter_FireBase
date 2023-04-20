@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "899331368645",
+    "project_id": "teste-f734e",
+    "storage_bucket": "teste-f734e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899331368645:android:2c2fd3b57276407c0c72ac",
+        "android_client_info": {
+          "package_name": "br.com.codigotelas.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899331368645-egdu37fbl0h4n2icckpl0rvtup45otaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpeHiL-uyeN2hRx_k5KSEsmMWKtl1Vunk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899331368645-egdu37fbl0h4n2icckpl0rvtup45otaf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899331368645-7l017etb344r25k5ba53qdmhaqetu7of.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.codigotelas.teste"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
